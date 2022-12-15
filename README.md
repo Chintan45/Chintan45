@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Chintan Dobariya 👋</h1>
-<h3 align="justify">I am pursuing Master's in Computer Science at University of Illinois at Chicago (UIC). I'm preparing my self for Data Scientist and ML Engineer roles.</h3>
+<h3 align="justify">I am pursuing a Master's in Computer Science at The University of Illinois at Chicago (UIC). I'm preparing myself for Data Scientist and ML Engineer roles.</h3>
 
 - 👀 I’m interested in <b> Machine Learning, Data Science, Full-Stack Development. </b>
 - 🌱 I’m currently learning <b> NLP, Data Science.</b> 
