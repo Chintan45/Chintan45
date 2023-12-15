@@ -6,6 +6,16 @@
 - 💬 Ask me about <b>Python, React JS, Node JS, SQL.</b>
 - 📫 Reach me out at cdobar2@uic.edu 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chintan45&show_icons=true&locale=en&layout=compact" alt="ChintanDobariya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chintan45&show_icons=true&locale=en" alt="Chintan Dobariya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chintan45&" alt="chintandobariya" /></p>
+
+
+
+
 ### Connect with me:
 
 <p align="left">
