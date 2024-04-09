@@ -1,22 +1,19 @@
 <h1 align="center">Hi , I'm Chintan Dobariya 👋  </h1>
-<h3 align="justify">I am pursuing a Master's in Computer Science at The University of Illinois at Chicago (UIC). I'm preparing myself for Data Scientist and ML Engineer roles.</h3>
+<p align="">I am a Computer Science graduate student at the University of Illinois at Chicago (UIC) with 2 years of experience in building high-quality scalable web application systems. My skills span various programming languages, databases, and frameworks. Currently, I serve as a Full Stack Developer at UIC College of Engineering, where I actively contribute to the development and deployment of new features across multiple applications.</p>
 
-- 👀 I’m interested in <b> Machine Learning, Data Science, Full-Stack Development. </b>
+- 👀 I’m interested in <b> Full-Stack Development, Machine Learning & Data Science. </b>
 - 🌱 I’m currently learning <b> NLP, Data Science.</b> 
-- 💬 Ask me about <b>Python, React JS, Node JS, SQL.</b>
-- 📫 Reach me out at cdobar2@uic.edu 
+- 📫 Reach out to me at cdobar2@uic.edu 
 
+### Skills: 
+- Programming Languages: C, C++, C#, Java, JavaScript, Python, PHP.
+- Web Technologies: 
+    - Frontend: HTML, CSS, SASS, React.js, Redux, TypeScript, Bootstrap, jQuery.
+    - Backend: Express, Node, Django, Flask, Laravel, REST APIs.
+- Database: MySQL, PostgreSQL, MongoDB.
+- Tools & Libraries: Git, GitHub, Gulp, Webpack, Jenkins, Netlify, Heroku, Linux, Google Colab, Scikit-Learn, PyTorch, AWS, Tableau.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chintan45&show_icons=true&locale=en&layout=compact" alt="ChintanDobariya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chintan45&show_icons=true&locale=en" alt="Chintan Dobariya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chintan45&" alt="chintandobariya" /></p>
-
-
-
-
-### Connect with me:
+<h3> Connect with me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/ChintanDobariy1" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter chintan dobariya"  /></a>
