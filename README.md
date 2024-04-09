@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Chintan Dobariya 👋  </h1>
-<p align="">I am a Computer Science graduate student at the University of Illinois at Chicago (UIC) with 2 years of experience in building high-quality scalable web application systems. My skills span various programming languages, databases, and frameworks. Currently, I serve as a Full Stack Developer at UIC College of Engineering, where I actively contribute to the development and deployment of new features across multiple applications.</p>
 
+
+- 🎓 I'm a Computer Science graduate student at <b> the University of Illinois at Chicago (UIC). </b>
+- 💼 I'm <b> Full Stack Developer </b> at UIC - College of Engineering.
 - 👀 I’m interested in <b> Full-Stack Development, Machine Learning & Data Science. </b>
 - 🌱 I’m currently learning <b> NLP, Data Science.</b> 
 - 📫 Reach out to me at cdobar2@uic.edu 
